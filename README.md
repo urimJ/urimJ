@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=2500&pause=100&color=D4808C&vCenter=true&width=435&lines=Hi%2C+there!;I'm+Yurim)](https://git.io/typing-svg)
 
-- Javascript ES6, Node.js, Express, Nest.js, MySql, Sequelize, HTML/CSS, React
+- Javascript ES6, Node.js, Express, Nest.js, MySql, Sequelize, typeORM, HTML/CSS, React
 - C, C++, Python, Java
 - Arduino
 - Git, Notion, Slack, Figma
